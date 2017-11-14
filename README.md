@@ -1,1 +1,2 @@
 # Pokemon-with-stat
+This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. This dataset is focused on the stats and features of the Pokemon in the RPGs. Until now (08/01/2017) seven generations of Pokemon have been published. Calculating and interpreting PCA results with scaling. Plotting variance explained by each component. Performing hierarchical clustering using Euclidean distance and plotting dendrogram to show relation.
